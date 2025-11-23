@@ -1,0 +1,2851 @@
+[
+  {
+    "id": 1,
+    "name": "Goa Beaches",
+    "country": "India",
+    "description": "Pristine beaches with vibrant nightlife and Portuguese heritage",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Tropical"
+    ],
+    "activities": [
+      "Beach",
+      "Water Sports",
+      "Nightlife"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Goa",
+    "tags": [
+      "beach",
+      "party"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Andaman Islands",
+    "country": "India",
+    "description": "Tropical islands with crystal-clear waters and coral reefs",
+    "avg_budget": "\u20b925,000 - \u20b950,000",
+    "weather": [
+      "Tropical"
+    ],
+    "activities": [
+      "Scuba Diving",
+      "Snorkeling",
+      "Beach"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Andaman+Islands",
+    "tags": [
+      "beach",
+      "diving"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Varkala Beach",
+    "country": "India",
+    "description": "Cliff-side beach in Kerala with natural springs",
+    "avg_budget": "\u20b98,000 - \u20b915,000",
+    "weather": [
+      "Tropical"
+    ],
+    "activities": [
+      "Beach",
+      "Yoga",
+      "Ayurveda"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Varkala+Kerala",
+    "tags": [
+      "beach",
+      "yoga"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Puri Beach",
+    "country": "India",
+    "description": "Sacred beach town with Jagannath Temple",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Tropical"
+    ],
+    "activities": [
+      "Beach",
+      "Temple Visits"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Puri+Odisha",
+    "tags": [
+      "beach",
+      "spiritual"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Kovalam Beach",
+    "country": "India",
+    "description": "Crescent beach in Kerala with lighthouse views",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Tropical"
+    ],
+    "activities": [
+      "Beach",
+      "Swimming",
+      "Ayurveda"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Kovalam+Kerala",
+    "tags": [
+      "beach",
+      "lighthouse"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Gokarna",
+    "country": "India",
+    "description": "Peaceful beaches and temples in Karnataka",
+    "avg_budget": "\u20b97,000 - \u20b914,000",
+    "weather": [
+      "Tropical"
+    ],
+    "activities": [
+      "Beach",
+      "Trekking",
+      "Temples"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Gokarna+Karnataka",
+    "tags": [
+      "beach",
+      "peaceful"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Diu",
+    "country": "India",
+    "description": "Quiet beaches with Portuguese colonial architecture",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Tropical"
+    ],
+    "activities": [
+      "Beach",
+      "History",
+      "Water Sports"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Diu",
+    "tags": [
+      "beach",
+      "colonial"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Alibaug",
+    "country": "India",
+    "description": "Beach town near Mumbai with forts and water sports",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Tropical"
+    ],
+    "activities": [
+      "Beach",
+      "Forts",
+      "Water Sports"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Alibaug+Maharashtra",
+    "tags": [
+      "beach",
+      "forts"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Tarkarli",
+    "country": "India",
+    "description": "Clear waters perfect for snorkeling and scuba diving",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Tropical"
+    ],
+    "activities": [
+      "Snorkeling",
+      "Scuba Diving",
+      "Beach"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Tarkarli+Maharashtra",
+    "tags": [
+      "beach",
+      "diving"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Lakshadweep",
+    "country": "India",
+    "description": "Coral islands with pristine lagoons and marine life",
+    "avg_budget": "\u20b930,000 - \u20b960,000",
+    "weather": [
+      "Tropical"
+    ],
+    "activities": [
+      "Snorkeling",
+      "Diving",
+      "Beach"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Lakshadweep",
+    "tags": [
+      "island",
+      "diving"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Manali",
+    "country": "India",
+    "description": "Himalayan resort town with snow-capped peaks",
+    "avg_budget": "\u20b912,000 - \u20b925,000",
+    "weather": [
+      "Cold"
+    ],
+    "activities": [
+      "Trekking",
+      "Skiing",
+      "Paragliding"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Mar-Jun"
+    ],
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Manali+Himachal",
+    "tags": [
+      "mountains",
+      "adventure"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Leh-Ladakh",
+    "country": "India",
+    "description": "High-altitude desert with stunning landscapes",
+    "avg_budget": "\u20b920,000 - \u20b940,000",
+    "weather": [
+      "Cold"
+    ],
+    "activities": [
+      "Bike Trip",
+      "Trekking",
+      "Monastery"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "May-Sep"
+    ],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Leh+Ladakh",
+    "tags": [
+      "mountains",
+      "adventure"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Shimla",
+    "country": "India",
+    "description": "Colonial hill station with Victorian architecture",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Sightseeing",
+      "Shopping",
+      "Toy Train"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Mar-Jun"
+    ],
+    "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Shimla+Himachal",
+    "tags": [
+      "hill-station",
+      "colonial"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Darjeeling",
+    "country": "India",
+    "description": "Tea gardens and views of Kanchenjunga peak",
+    "avg_budget": "\u20b911,000 - \u20b922,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Tea Garden Tours",
+      "Toy Train",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Mar-May"
+    ],
+    "image": "https://images.unsplash.com/photo-1590856642302-a6b63b63b29e?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Darjeeling+West+Bengal",
+    "tags": [
+      "tea",
+      "mountains"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Mussoorie",
+    "country": "India",
+    "description": "Queen of Hills with waterfalls and colonial charm",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Nature Walks",
+      "Cable Car",
+      "Waterfalls"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Apr-Jun"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Mussoorie+Uttarakhand",
+    "tags": [
+      "hill-station",
+      "waterfalls"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Ooty",
+    "country": "India",
+    "description": "Nilgiri hill station with tea gardens and lakes",
+    "avg_budget": "\u20b910,000 - \u20b918,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Toy Train",
+      "Botanical Gardens",
+      "Boating"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Mar-Jun"
+    ],
+    "image": "https://images.unsplash.com/photo-1590856642302-a6b63b63b29e?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Ooty+Tamil+Nadu",
+    "tags": [
+      "tea",
+      "hill-station"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Nainital",
+    "country": "India",
+    "description": "Lake district with boating and scenic views",
+    "avg_budget": "\u20b99,000 - \u20b917,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Boating",
+      "Trekking",
+      "Cable Car"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Mar-Jun"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Nainital+Uttarakhand",
+    "tags": [
+      "lake",
+      "hill-station"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Munnar",
+    "country": "India",
+    "description": "Tea plantations and misty mountains in Kerala",
+    "avg_budget": "\u20b911,000 - \u20b922,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Tea Plantation Tours",
+      "Trekking",
+      "Wildlife"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Sep-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1590856642302-a6b63b63b29e?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Munnar+Kerala",
+    "tags": [
+      "tea",
+      "nature"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Coorg",
+    "country": "India",
+    "description": "Coffee plantations and waterfalls in Karnataka",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Coffee Plantation Tours",
+      "Trekking",
+      "Waterfalls"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Coorg+Karnataka",
+    "tags": [
+      "coffee",
+      "nature"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Auli",
+    "country": "India",
+    "description": "Skiing destination in Uttarakhand Himalayas",
+    "avg_budget": "\u20b915,000 - \u20b930,000",
+    "weather": [
+      "Cold"
+    ],
+    "activities": [
+      "Skiing",
+      "Cable Car",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Dec-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Auli+Uttarakhand",
+    "tags": [
+      "skiing",
+      "mountains"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Spiti Valley",
+    "country": "India",
+    "description": "Remote high-altitude desert valley",
+    "avg_budget": "\u20b918,000 - \u20b935,000",
+    "weather": [
+      "Cold"
+    ],
+    "activities": [
+      "Trekking",
+      "Monastery Visits",
+      "Photography"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "May-Oct"
+    ],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Spiti+Valley",
+    "tags": [
+      "mountains",
+      "remote"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Kasol",
+    "country": "India",
+    "description": "Hippie village in Parvati Valley",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Trekking",
+      "Camping",
+      "Cafes"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Mar-Jun"
+    ],
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Kasol+Himachal",
+    "tags": [
+      "mountains",
+      "backpacking"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Mcleodganj",
+    "country": "India",
+    "description": "Tibetan culture and Dalai Lama residence",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Monastery Visits",
+      "Trekking",
+      "Tibetan Culture"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Mar-Jun"
+    ],
+    "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Mcleodganj+Himachal",
+    "tags": [
+      "tibetan",
+      "spiritual"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Gangtok",
+    "country": "India",
+    "description": "Sikkim capital with monasteries and mountain views",
+    "avg_budget": "\u20b912,000 - \u20b924,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Monastery Visits",
+      "Cable Car",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Mar-Jun"
+    ],
+    "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Gangtok+Sikkim",
+    "tags": [
+      "mountains",
+      "buddhist"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Shillong",
+    "country": "India",
+    "description": "Scotland of the East with waterfalls and lakes",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Waterfalls",
+      "Lakes",
+      "Music"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-May"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Shillong+Meghalaya",
+    "tags": [
+      "waterfalls",
+      "nature"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Jaipur",
+    "country": "India",
+    "description": "Pink City with magnificent palaces and forts",
+    "avg_budget": "\u20b98,000 - \u20b915,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Forts",
+      "Palaces",
+      "Shopping"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Jaipur+Rajasthan",
+    "tags": [
+      "heritage",
+      "palace"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Agra",
+    "country": "India",
+    "description": "Home to the iconic Taj Mahal",
+    "avg_budget": "\u20b97,000 - \u20b915,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Taj Mahal",
+      "Agra Fort",
+      "Shopping"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Agra",
+    "tags": [
+      "heritage",
+      "unesco"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Udaipur",
+    "country": "India",
+    "description": "City of Lakes with romantic palaces",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Lake Pichola",
+      "City Palace",
+      "Boat Rides"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Sep-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1587135941948-670b381f08ce?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Udaipur+Rajasthan",
+    "tags": [
+      "romantic",
+      "palace"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Jaisalmer",
+    "country": "India",
+    "description": "Golden city with desert safaris",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Desert Safari",
+      "Fort",
+      "Camel Ride"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Jaisalmer+Rajasthan",
+    "tags": [
+      "desert",
+      "fort"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Hampi",
+    "country": "India",
+    "description": "Ancient ruins and boulder landscapes",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Temple Ruins",
+      "Bouldering",
+      "History"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Hampi+Karnataka",
+    "tags": [
+      "ruins",
+      "unesco"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Khajuraho",
+    "country": "India",
+    "description": "Famous for intricate temple sculptures",
+    "avg_budget": "\u20b97,000 - \u20b914,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Temple Tours",
+      "Light Show",
+      "History"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Khajuraho+Madhya+Pradesh",
+    "tags": [
+      "temples",
+      "unesco"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Ellora Caves",
+    "country": "India",
+    "description": "Rock-cut caves with stunning architecture",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Cave Exploration",
+      "History",
+      "Photography"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Ellora+Maharashtra",
+    "tags": [
+      "caves",
+      "unesco"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Ajanta Caves",
+    "country": "India",
+    "description": "Ancient Buddhist cave paintings",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Cave Exploration",
+      "Art",
+      "History"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Ajanta+Maharashtra",
+    "tags": [
+      "caves",
+      "unesco"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Mysore",
+    "country": "India",
+    "description": "Palace city with royal heritage",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Palace Tours",
+      "Yoga",
+      "Shopping"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1587135941948-670b381f08ce?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Mysore+Karnataka",
+    "tags": [
+      "palace",
+      "heritage"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Fatehpur Sikri",
+    "country": "India",
+    "description": "Abandoned Mughal city near Agra",
+    "avg_budget": "\u20b95,000 - \u20b910,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Historical Tours",
+      "Photography",
+      "Architecture"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Fatehpur+Sikri",
+    "tags": [
+      "heritage",
+      "unesco"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Konark",
+    "country": "India",
+    "description": "Sun Temple with chariot architecture",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Temple Tours",
+      "Beach",
+      "History"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Konark+Odisha",
+    "tags": [
+      "temple",
+      "unesco"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Mahabalipuram",
+    "country": "India",
+    "description": "Shore temples and rock carvings",
+    "avg_budget": "\u20b97,000 - \u20b914,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Temple Tours",
+      "Beach",
+      "Sculpture"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Mahabalipuram+Tamil+Nadu",
+    "tags": [
+      "temple",
+      "unesco"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Sanchi",
+    "country": "India",
+    "description": "Buddhist stupas and monasteries",
+    "avg_budget": "\u20b95,000 - \u20b910,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Stupa Tours",
+      "Meditation",
+      "History"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Sanchi+Madhya+Pradesh",
+    "tags": [
+      "buddhist",
+      "unesco"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Orchha",
+    "country": "India",
+    "description": "Medieval town with palaces and temples",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Palace Tours",
+      "River Rafting",
+      "History"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1587135941948-670b381f08ce?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Orchha+Madhya+Pradesh",
+    "tags": [
+      "heritage",
+      "palace"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Bijapur",
+    "country": "India",
+    "description": "Gol Gumbaz and Islamic architecture",
+    "avg_budget": "\u20b95,000 - \u20b910,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Historical Tours",
+      "Architecture",
+      "Photography"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Bijapur+Karnataka",
+    "tags": [
+      "heritage",
+      "islamic"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Varanasi",
+    "country": "India",
+    "description": "Spiritual capital on the Ganges River",
+    "avg_budget": "\u20b95,000 - \u20b910,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Ganga Aarti",
+      "Boat Ride",
+      "Temple Visits"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Varanasi",
+    "tags": [
+      "spiritual",
+      "river"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Rishikesh",
+    "country": "India",
+    "description": "Yoga capital with Ganges rafting",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Yoga",
+      "River Rafting",
+      "Meditation"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Feb-May"
+    ],
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Rishikesh+Uttarakhand",
+    "tags": [
+      "spiritual",
+      "yoga"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Haridwar",
+    "country": "India",
+    "description": "Holy city with Ganga Aarti",
+    "avg_budget": "\u20b95,000 - \u20b910,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Ganga Aarti",
+      "Temple Visits",
+      "Pilgrimage"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Haridwar+Uttarakhand",
+    "tags": [
+      "spiritual",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Amritsar",
+    "country": "India",
+    "description": "Golden Temple and Sikh heritage",
+    "avg_budget": "\u20b97,000 - \u20b914,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Golden Temple",
+      "Wagah Border",
+      "Food"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Amritsar+Punjab",
+    "tags": [
+      "spiritual",
+      "sikh"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Bodh Gaya",
+    "country": "India",
+    "description": "Where Buddha attained enlightenment",
+    "avg_budget": "\u20b95,000 - \u20b910,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Mahabodhi Temple",
+      "Meditation",
+      "Pilgrimage"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Bodh+Gaya+Bihar",
+    "tags": [
+      "buddhist",
+      "spiritual"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Tirupati",
+    "country": "India",
+    "description": "Famous Venkateswara Temple",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Temple Visits",
+      "Pilgrimage",
+      "Darshan"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Sep-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Tirupati+Andhra+Pradesh",
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Madurai",
+    "country": "India",
+    "description": "Meenakshi Temple with vibrant gopurams",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Temple Tours",
+      "Culture",
+      "Food"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Madurai+Tamil+Nadu",
+    "tags": [
+      "temple",
+      "culture"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Pushkar",
+    "country": "India",
+    "description": "Sacred lake and camel fair",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Camel Fair",
+      "Temple Visits",
+      "Desert"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Pushkar+Rajasthan",
+    "tags": [
+      "spiritual",
+      "desert"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Dwarka",
+    "country": "India",
+    "description": "Krishna temple by the sea",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Temple Visits",
+      "Beach",
+      "Pilgrimage"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Dwarka+Gujarat",
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Shirdi",
+    "country": "India",
+    "description": "Sai Baba temple and pilgrimage site",
+    "avg_budget": "\u20b95,000 - \u20b910,000",
+    "weather": [
+      "Hot"
+    ],
+    "activities": [
+      "Temple Visits",
+      "Pilgrimage",
+      "Darshan"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Shirdi+Maharashtra",
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Pondicherry",
+    "country": "India",
+    "description": "French colonial town with beaches and cafes",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Tropical"
+    ],
+    "activities": [
+      "Beach",
+      "French Quarter",
+      "Cafes"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Pondicherry",
+    "tags": [
+      "beach",
+      "french"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Alleppey",
+    "country": "India",
+    "description": "Venice of the East with backwater houseboats",
+    "avg_budget": "\u20b914,000 - \u20b928,000",
+    "weather": [
+      "Tropical"
+    ],
+    "activities": [
+      "Houseboat",
+      "Backwaters",
+      "Beach"
+    ],
+    "travel_with": [
+      "Couples",
+      "Family"
+    ],
+    "best_season": [
+      "Sep-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Alleppey",
+    "tags": [
+      "backwaters",
+      "houseboat"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Wayanad",
+    "country": "India",
+    "description": "Hill station in Kerala with waterfalls and wildlife",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Trekking",
+      "Waterfalls",
+      "Wildlife"
+    ],
+    "travel_with": [
+      "Family",
+      "Friends"
+    ],
+    "best_season": [
+      "Oct-May"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Wayanad",
+    "tags": [
+      "nature",
+      "waterfalls"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Kodaikanal",
+    "country": "India",
+    "description": "Princess of Hill Stations with lakes and valleys",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Boating",
+      "Trekking",
+      "Sightseeing"
+    ],
+    "travel_with": [
+      "Couples",
+      "Family"
+    ],
+    "best_season": [
+      "Apr-Jun"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Kodaikanal",
+    "tags": [
+      "hill-station",
+      "lake"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Yercaud",
+    "country": "India",
+    "description": "Quiet hill station with coffee plantations",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Boating",
+      "Coffee Tours",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Jun"
+    ],
+    "image": "https://images.unsplash.com/photo-1590856642302-a6b63b63b29e?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Yercaud",
+    "tags": [
+      "hill-station",
+      "coffee"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Coonoor",
+    "country": "India",
+    "description": "Tea gardens and Nilgiri mountain railway",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Tea Tours",
+      "Toy Train"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1590856642302-a6b63b63b29e?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Coonoor",
+    "tags": [
+      "tea",
+      "hill-station"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Lonavala",
+    "country": "India",
+    "description": "Hill station near Mumbai with waterfalls",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Waterfalls",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Lonavala",
+    "tags": [
+      "hill-station",
+      "waterfalls"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Matheran",
+    "country": "India",
+    "description": "Asia smallest hill station, vehicle-free",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Toy Train",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Matheran",
+    "tags": [
+      "hill-station",
+      "eco"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Mahabaleshwar",
+    "country": "India",
+    "description": "Strawberry capital with viewpoints",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Strawberry Farms",
+      "Viewpoints"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Mahabaleshwar",
+    "tags": [
+      "hill-station",
+      "strawberry"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Pachmarhi",
+    "country": "India",
+    "description": "Only hill station in Madhya Pradesh",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Waterfalls",
+      "Caves"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Pachmarhi",
+    "tags": [
+      "hill-station",
+      "caves"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Mount Abu",
+    "country": "India",
+    "description": "Only hill station in Rajasthan",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Dilwara Temples",
+      "Nakki Lake"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Mount+Abu",
+    "tags": [
+      "hill-station",
+      "temples"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Lansdowne",
+    "country": "India",
+    "description": "Quiet cantonment town in Uttarakhand",
+    "avg_budget": "\u20b97,000 - \u20b914,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Nature Walks",
+      "Bird Watching"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Lansdowne",
+    "tags": [
+      "hill-station",
+      "peaceful"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Ranikhet",
+    "country": "India",
+    "description": "Army town with Himalayan views",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Golf",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Ranikhet",
+    "tags": [
+      "hill-station",
+      "golf"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Almora",
+    "country": "India",
+    "description": "Cultural town in Kumaon hills",
+    "avg_budget": "\u20b97,000 - \u20b914,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Temples",
+      "Handicrafts"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Almora",
+    "tags": [
+      "hill-station",
+      "culture"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Kausani",
+    "country": "India",
+    "description": "Switzerland of India with tea gardens",
+    "avg_budget": "\u20b97,000 - \u20b914,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Tea Gardens",
+      "Sunrise Views"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1590856642302-a6b63b63b29e?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Kausani",
+    "tags": [
+      "hill-station",
+      "tea"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Tawang",
+    "country": "India",
+    "description": "Buddhist monastery in Arunachal Pradesh",
+    "avg_budget": "\u20b915,000 - \u20b930,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Monastery",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Tawang",
+    "tags": [
+      "buddhist",
+      "mountains"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Cherrapunji",
+    "country": "India",
+    "description": "Wettest place on Earth with living root bridges",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Living Root Bridges",
+      "Waterfalls"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Cherrapunji",
+    "tags": [
+      "waterfalls",
+      "unique"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Mawlynnong",
+    "country": "India",
+    "description": "Cleanest village in Asia",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Village Tour",
+      "Living Root Bridge"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Mawlynnong",
+    "tags": [
+      "village",
+      "clean"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Dawki",
+    "country": "India",
+    "description": "Crystal clear Umngot River",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Boating",
+      "Photography"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Dawki",
+    "tags": [
+      "river",
+      "crystal-clear"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Tirthan Valley",
+    "country": "India",
+    "description": "Offbeat valley in Himachal",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Trout Fishing",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Tirthan+Valley",
+    "tags": [
+      "valley",
+      "offbeat"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Parvati Valley",
+    "country": "India",
+    "description": "Hippie trail with hot springs",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Trekking",
+      "Hot Springs"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Parvati+Valley",
+    "tags": [
+      "valley",
+      "backpacking"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Sangla Valley",
+    "country": "India",
+    "description": "Apple orchards in Kinnaur",
+    "avg_budget": "\u20b911,000 - \u20b922,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Apple Orchards",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Sangla+Valley",
+    "tags": [
+      "valley",
+      "apples"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Dzukou Valley",
+    "country": "India",
+    "description": "Valley of flowers in Nagaland",
+    "avg_budget": "\u20b912,000 - \u20b924,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Trekking",
+      "Flowers"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Dzukou+Valley",
+    "tags": [
+      "valley",
+      "flowers"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Khajjiar",
+    "country": "India",
+    "description": "Mini Switzerland of India",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Horse Riding",
+      "Zorbing"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Khajjiar",
+    "tags": [
+      "meadow",
+      "adventure"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Dhanaulti",
+    "country": "India",
+    "description": "Quiet hill station near Mussoorie",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Eco Parks",
+      "Adventure"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Dhanaulti",
+    "tags": [
+      "hill-station",
+      "eco"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Chail",
+    "country": "India",
+    "description": "Highest cricket ground in the world",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Cricket Ground",
+      "Palace"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Chail",
+    "tags": [
+      "hill-station",
+      "cricket"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Kufri",
+    "country": "India",
+    "description": "Skiing destination near Shimla",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Skiing",
+      "Yak Riding"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Kufri",
+    "tags": [
+      "skiing",
+      "adventure"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Bir Billing",
+    "country": "India",
+    "description": "Paragliding capital of India",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Paragliding",
+      "Monastery"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Bir+Billing",
+    "tags": [
+      "paragliding",
+      "adventure"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Chopta",
+    "country": "India",
+    "description": "Mini Switzerland with Tungnath trek",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Trekking",
+      "Camping"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Chopta",
+    "tags": [
+      "trekking",
+      "camping"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Auroville",
+    "country": "India",
+    "description": "Experimental township near Pondicherry",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Matrimandir",
+      "Meditation"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Auroville",
+    "tags": [
+      "spiritual",
+      "experimental"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Hampi",
+    "country": "India",
+    "description": "Ancient ruins and boulder landscapes",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Temple Ruins",
+      "Bouldering"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Hampi",
+    "tags": [
+      "ruins",
+      "unesco"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Badami",
+    "country": "India",
+    "description": "Cave temples and red sandstone cliffs",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Cave Temples",
+      "Rock Climbing"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Badami",
+    "tags": [
+      "caves",
+      "temples"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Pattadakal",
+    "country": "India",
+    "description": "UNESCO World Heritage temple complex",
+    "avg_budget": "\u20b95,000 - \u20b910,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Temple Tours",
+      "Architecture"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Pattadakal",
+    "tags": [
+      "temples",
+      "unesco"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Aihole",
+    "country": "India",
+    "description": "Cradle of Indian architecture",
+    "avg_budget": "\u20b95,000 - \u20b910,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Temple Tours",
+      "History"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Aihole",
+    "tags": [
+      "temples",
+      "heritage"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Lepakshi",
+    "country": "India",
+    "description": "Hanging pillar temple",
+    "avg_budget": "\u20b95,000 - \u20b910,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Temple Tours",
+      "Architecture"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Lepakshi",
+    "tags": [
+      "temple",
+      "unique"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Belur",
+    "country": "India",
+    "description": "Hoysala architecture temples",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Temple Tours",
+      "Sculpture"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Belur",
+    "tags": [
+      "temples",
+      "sculpture"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Halebidu",
+    "country": "India",
+    "description": "Intricate Hoysala temples",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Temple Tours",
+      "Art"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Halebidu",
+    "tags": [
+      "temples",
+      "art"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Sravanabelagola",
+    "country": "India",
+    "description": "Monolithic Bahubali statue",
+    "avg_budget": "\u20b95,000 - \u20b910,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Statue",
+      "Pilgrimage"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Sravanabelagola",
+    "tags": [
+      "jain",
+      "statue"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Chikmagalur",
+    "country": "India",
+    "description": "Coffee land with hills",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Coffee Tours",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1590856642302-a6b63b63b29e?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Chikmagalur",
+    "tags": [
+      "coffee",
+      "hills"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Sakleshpur",
+    "country": "India",
+    "description": "Coffee estates and waterfalls",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Coffee Tours",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Sakleshpur",
+    "tags": [
+      "coffee",
+      "waterfalls"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Kabini",
+    "country": "India",
+    "description": "Wildlife resort with elephant sightings",
+    "avg_budget": "\u20b915,000 - \u20b930,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Wildlife Safari",
+      "Boat Ride"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Kabini",
+    "tags": [
+      "wildlife",
+      "luxury"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "BR Hills",
+    "country": "India",
+    "description": "Wildlife sanctuary in Karnataka",
+    "avg_budget": "\u20b910,000 - \u20b920,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Wildlife Safari",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800",
+    "googlemap_link": "https://maps.google.com/?q=BR+Hills",
+    "tags": [
+      "wildlife",
+      "nature"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Dandeli",
+    "country": "India",
+    "description": "Adventure sports and wildlife",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "River Rafting",
+      "Wildlife"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Dandeli",
+    "tags": [
+      "adventure",
+      "rafting"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Gokak Falls",
+    "country": "India",
+    "description": "Horseshoe-shaped waterfall",
+    "avg_budget": "\u20b95,000 - \u20b910,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Waterfall",
+      "Photography"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Gokak+Falls",
+    "tags": [
+      "waterfall",
+      "nature"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Jog Falls",
+    "country": "India",
+    "description": "India second highest plunge waterfall",
+    "avg_budget": "\u20b97,000 - \u20b914,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Waterfall",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Jog+Falls",
+    "tags": [
+      "waterfall",
+      "spectacular"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Athirapally Falls",
+    "country": "India",
+    "description": "Niagara of India",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Waterfall",
+      "Photography"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Athirapally+Kerala",
+    "tags": [
+      "waterfall",
+      "scenic"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Dudhsagar Falls",
+    "country": "India",
+    "description": "Milky waterfall in Goa",
+    "avg_budget": "\u20b98,000 - \u20b916,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Waterfall",
+      "Trekking"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Dudhsagar+Goa",
+    "tags": [
+      "waterfall",
+      "trekking"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Nohkalikai Falls",
+    "country": "India",
+    "description": "Tallest plunge waterfall in India",
+    "avg_budget": "\u20b99,000 - \u20b918,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Waterfall",
+      "Photography"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Nohkalikai+Meghalaya",
+    "tags": [
+      "waterfall",
+      "tallest"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Chitrakote Falls",
+    "country": "India",
+    "description": "Niagara of India in Chhattisgarh",
+    "avg_budget": "\u20b97,000 - \u20b914,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Waterfall",
+      "Boating"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Chitrakote+Chhattisgarh",
+    "tags": [
+      "waterfall",
+      "wide"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Hogenakkal Falls",
+    "country": "India",
+    "description": "Medicinal bath falls",
+    "avg_budget": "\u20b96,000 - \u20b912,000",
+    "weather": [
+      "Pleasant"
+    ],
+    "activities": [
+      "Waterfall",
+      "Coracle Ride"
+    ],
+    "travel_with": [
+      "Couples",
+      "Friends",
+      "Family"
+    ],
+    "best_season": [
+      "Oct-Mar"
+    ],
+    "image": "https://images.unsplash.com/photo-1571847028735-a7f2c86f6c9c?w=800",
+    "googlemap_link": "https://maps.google.com/?q=Hogenakkal+Tamil+Nadu",
+    "tags": [
+      "waterfall",
+      "medicinal"
+    ]
+  }
+]
