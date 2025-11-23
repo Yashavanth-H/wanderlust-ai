@@ -4,7 +4,7 @@ import { Separator } from '@/components/ui/separator'
 
 const Footer = () => {
   const currentYear = new Date().getFullYear()
-  
+
   return (
     <footer className="bg-card text-card-foreground pt-16 pb-8">
       <div className="container mx-auto px-4">
@@ -31,18 +31,18 @@ const Footer = () => {
               </Link>
             </div>
           </div>
-          
+
           <div>
             <h4 className="font-medium text-lg mb-4">Quick Links</h4>
             <nav className="flex flex-col space-y-2">
               <Link href="/" className="text-muted-foreground hover:text-primary transition-colors">Home</Link>
               <Link href="#destinations" className="text-muted-foreground hover:text-primary transition-colors">Destinations</Link>
-              <Link href="#about" className="text-muted-foreground hover:text-primary transition-colors">About</Link>
+              <Link href="/about" className="text-muted-foreground hover:text-primary transition-colors">About</Link>
               <Link href="#how-it-works" className="text-muted-foreground hover:text-primary transition-colors">How It Works</Link>
-              <Link href="#contact" className="text-muted-foreground hover:text-primary transition-colors">Contact</Link>
+              <Link href="/contact" className="text-muted-foreground hover:text-primary transition-colors">Contact</Link>
             </nav>
           </div>
-          
+
           <div>
             <h4 className="font-medium text-lg mb-4">Top Destinations</h4>
             <nav className="flex flex-col space-y-2">
@@ -53,7 +53,7 @@ const Footer = () => {
               <Link href="#" className="text-muted-foreground hover:text-primary transition-colors">Amalfi Coast, Italy</Link>
             </nav>
           </div>
-          
+
           <div>
             <h4 className="font-medium text-lg mb-4">Contact Us</h4>
             <address className="not-italic">
@@ -77,9 +77,9 @@ const Footer = () => {
             </address>
           </div>
         </div>
-        
+
         <Separator className="mb-8" />
-        
+
         <div className="text-center text-sm text-muted-foreground">
           <p>&copy; {currentYear} WanderlustAI. All rights reserved.</p>
           <div className="mt-2 space-x-4">
